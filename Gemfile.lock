@@ -60,6 +60,7 @@ GEM
     mime-types (1.25.1)
     multi_json (1.11.2)
     orm_adapter (0.5.0)
+    pg (0.16.0-x86-mingw32)
     polyglot (0.3.5)
     rack (1.4.7)
     rack-cache (1.5.1)
@@ -123,6 +124,7 @@ DEPENDENCIES
   coffee-script-source (= 1.8.0)
   devise
   jquery-rails
+  pg
   rails (= 3.2.18)
   sass-rails (~> 3.2.3)
   simple_form
